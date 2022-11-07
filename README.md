@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Anousk<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Java/C#/C++<br>- 💞️ I’m looking to collaborate on nothing already collaborating with some friends. ^^<br>- 📫 How to reach me anosk@mnkacraft.net<br>- 💼 Current project : Small game just for fun should be posted near 1 to 2 weeks.
+- 👋 Hi, I’m @Anousk<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Java/C#/C++<br>- 💞️ I’m looking to collaborate on nothing already collaborating with some friends. ^^<br>- 📫 How to reach me anosk@mnkacraft.net<br>- 💼 Current project : None I have an old 2010 MacBook Pro but I might get the new in M1 max soon.
 
 
 ## 🌐 Socials:
