@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Anousk<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Java/C#/C++/Rust (Reading the 22 chapters of DA BOOK)<br>- 💞️ I’m looking to collaborate on nothing already collaborating with some friends. ^^<br>- 📫 How to reach me anosk@mnkacraft.net<br>- 💼 Current project : None I have an old 2010 MacBook Pro but I might get the new in M1 max soon.
+- 👋 Hi, I’m @Anousk<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Java/C#/C++/Rust (Reading the 22 chapters of DA BOOK)<br>- 💞️ I’m looking to collaborate on nothing already collaborating with some friends. ^^<br>- 📫 How to reach me anosk@mnkacraft.net<br>- 💼 Current project : None Learning rust to create my own game engine + games.
 
 
 ## 🌐 Socials:
